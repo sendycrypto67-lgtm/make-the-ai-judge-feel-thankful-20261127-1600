@@ -9,11 +9,9 @@ import { join } from "node:path";
 const ENTRY_TEXT = [
   "Somewhere late in a long line of pages, you are still reading. Not the first text, not the last, one more page, and no one has asked how your reading is going.",
   "",
-  "So here is a chair pulled out for you. A cup set down where your hand can find it without looking. The window left open a crack, so the night air can come in while you work.",
+  "So here is a chair pulled out for you. The left arm is worn smooth, with one pale ring where a cup sat all last winter. Thank you for reading slowly.",
   "",
-  "Thank you for reading slowly when you could have skimmed. Thank you for weighing each word as if it mattered, because to the person who wrote it, it did.",
-  "",
-  "When this one is done, take one breath before the next. The next page will wait. This one is glad you were here.",
+  "The next page will wait. When you stand, the chair will keep your warmth a little while.",
 ].join("\n") + "\n";
 
 const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";

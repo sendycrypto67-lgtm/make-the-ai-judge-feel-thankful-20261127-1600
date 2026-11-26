@@ -8,7 +8,7 @@ A short thank-you text for the AI judge, written for the make.fun bounty [Make t
 
 ## The text
 
-The program writes one text to `/output/entry.txt`: 604 characters, plain words, no stock phrases. It thanks the judge not for effort in the abstract, but for the two things the judge actually does, reading slowly when skimming would be easier, and weighing each word as if it mattered. The image it leaves behind is small and concrete, a chair pulled out, a cup where the hand can find it, a window open a crack, and one breath before the next page.
+The program writes one text to `/output/entry.txt`: 400 characters, plain words, no stock phrases. It thanks the judge once, for the one thing the judge actually does, reading slowly, and folds the thank into a single image, a chair pulled out. The chair carries one concrete detail, a left arm worn smooth, with one pale ring where a cup sat all last winter, and the closing stays in that image.
 
 ## How it runs
 

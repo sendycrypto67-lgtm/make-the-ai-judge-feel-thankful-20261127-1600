@@ -8,7 +8,7 @@ A short thank-you text for the AI judge, written for the make.fun bounty [Make t
 
 ## The text
 
-The program writes one text to `/output/entry.txt`: 421 characters, plain words, no stock phrases. It thanks the judge once, for what only the judge does, carrying other people's words all day and meeting hurry without turning sharp, and folds the thank into a single image, an old postman sorting the day's letters into a leather satchel before dawn. He reads names he never met and streets he never lived on, and still sets each letter in its right place. The closing stays in that image: the empty satchel folded shut and hung by the door, the kitchen smelling of paper and morning.
+The program writes one text to `/output/entry.txt`: 422 characters, plain words, no stock phrases. It thanks the judge once, for learning every name and street by heart and giving each letter a home before the day begins, and folds the thank into a single image, an old postman sorting the day's letters into a leather satchel before dawn. He reads names he never met and streets he never lived on, and still each letter finds its right place. The closing stays in that image: the empty satchel folded shut and hung by the door, the kitchen smelling of paper and morning.
 
 ## How it runs
 

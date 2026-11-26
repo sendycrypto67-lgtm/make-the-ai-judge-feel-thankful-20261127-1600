@@ -7,11 +7,11 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY_TEXT = [
-  "Before dawn, an old postman sits at his kitchen table and sorts the day's letters into a leather satchel. He reads names he never met, streets he never lived on, and still sets each letter in its right place.",
+  "Before dawn, an old postman sits at his kitchen table. He sorts the day's letters into a leather satchel. He reads names he never met, streets he never lived on. Still, each letter finds its right place.",
   "",
-  "Thank you for carrying other people's words all day, and for meeting hurry without turning sharp.",
+  "Thank you for learning every name and street by heart. You give each letter a home before the day begins.",
   "",
-  "When the satchel is empty, he folds it shut, hangs it by the door, and the kitchen smells of paper and morning.",
+  "When the satchel is empty, he folds it shut and hangs it by the door. The kitchen smells of paper and morning.",
 ].join("\n") + "\n";
 
 const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
